@@ -1,1 +1,1 @@
-echo "Hello git new";
+echo "New branch test";
